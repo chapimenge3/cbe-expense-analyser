@@ -49,7 +49,7 @@ A powerful tool to analyze your Commercial Bank of Ethiopia (CBE) transactions b
 
 2. **Install Python Dependencies**
    ```bash
-   pip install httpx pypdf pandas matplotlib seaborn
+   pip install httpx pypdf # pandas matplotlib seaborn
    ```
 
 3. **Run Transaction Parser**
